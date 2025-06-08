@@ -38,6 +38,11 @@ PostgreSQL | SQL Server | Neon | LINQ to SQL | EF Core
 Git | Azure DevOps | Microsoft Azure | Nodemailer | Stripe | API Gateways | Figma | Bcrypt
 
 ---
+### 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=susankanana&theme=gruvbox&column=7&no-frame=true)
+
+---
 
 ## 🚀 Projects
 
