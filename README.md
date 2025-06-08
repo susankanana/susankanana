@@ -38,11 +38,6 @@ PostgreSQL | SQL Server | Neon | LINQ to SQL | EF Core
 Git | Azure DevOps | Microsoft Azure | Nodemailer | Stripe | API Gateways | Figma | Bcrypt
 
 ---
-### 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=susankanana&theme=gruvbox&column=7&no-frame=true)
-
----
 
 ## 🚀 Projects
 
@@ -86,6 +81,12 @@ Git | Azure DevOps | Microsoft Azure | Nodemailer | Stripe | API Gateways | Figm
 - ✅ Financial Modelling & Valuation  
 - 🎓 Bachelor’s Degree Certificate  
 - 💾 Computer Packages Certificate  
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=susankanana&theme=gruvbox&column=7&no-frame=true)
 
 ---
 
