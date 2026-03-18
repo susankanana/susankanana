@@ -1,108 +1,84 @@
 # 👩🏽‍💻 Susan Kanana Odhiambo
+### Software Development Engineer in Test (SDET) | Full-Stack Engineer | Quality Guardian
 
-**Software Developer | Full-Stack Engineer | QA Enthusiast**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=susankanana&label=Profile%20Views&color=0e75b6&style=flat" alt="susankanana" />
+</p>
 
-🌍 Nairobi, Kenya  
-📧 suzzannekans@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/susankanana)
+🌍 **Nairobi, Kenya** 📧 [suzzannekans@gmail.com](mailto:suzzannekans@gmail.com)  
+🔗 [**LinkedIn**](https://www.linkedin.com) | [**Portfolio**](https://github.com/susankanana)
 
 ---
 
 ## 👋 About Me
 
-- 🔭 I’m a passionate full-stack developer with over 4 years of experience building web and mobile apps.
-- 🌱 Currently learning: **Advanced Testing with Jest**
-- 💬 Ask me about .NET, Blazor, Node.js, React, APIs, CI/CD, or database design.
-- 🤝 Open to collaborating on impactful tech solutions and data-driven applications.
-- 💡 Interested in FinTech, HealthTech, and Community-Based Innovations.
+- 🛡️ **Quality Guardian** focused on building bulletproof automation suites and scalable full-stack systems.
+- 🌱 **Advanced Research:** Deep-diving into **Playwright for Mobile** and **Performance Testing**.
+- 💬 Ask me about: **Java (Spring Boot), .NET Core, React, Playwright, or Cloud Infrastructure.**
+- 🤝 Open to: Collaborating on Open Source QA tools and FinTech/HealthTech innovations.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**  
-HTML | CSS | JavaScript | TypeScript | C# | Python  
-ASP.NET | ASP.NET Core | Blazor | Node.js | Express.js | React  
-Bootstrap | LINQ | EF Core | Drizzle ORM
+### 🌐 Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-**Testing & QA**  
-Jest (Unit & Integration Testing) | NUnit | Postman | API Testing  
+### 🧪 Quality Assurance & Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662d91?style=for-the-badge&logo=Appium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Authentication & Authorization**  
-JWT | Role-Based Access Control | Secure API Auth  
-
-**Database & ORM**  
-PostgreSQL | SQL Server | Neon | LINQ to SQL | EF Core  
-
-**Tools & Cloud**  
-Git | Azure DevOps | Microsoft Azure | Nodemailer | Stripe | API Gateways | Figma | Bcrypt
+### ☁️ Infrastructure & Databases
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/MSSQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **AuctionGarde** – African art auction platform with Blazor, C#, Azure, and microservices.  
-- **Hospital Management System** – Data-driven hospital system built with EF Core and ASP.NET.  
-- **Car Rental System** – Secure API backend in Express.js + PostgreSQL + Drizzle ORM + JWT.  
-- **Bank OOP** – OOP-based banking simulator built in TypeScript.  
-- **Movies-To-Watch** – A DOM-powered JS app for managing your movie list.  
-- **News Home Page** – A responsive news homepage built with HTML, CSS & JS.  
-- **ConsoleApp-NUnit-Tests** – TDD-based .NET console app using NUnit for validation.
+### 🏥 [CareConnect](https://github.com/susankanana) 
+**Full-Stack Hospital Management System** *Integrated telemedicine, RBAC, and automated appointment scheduling.*
+- **Tech:** React, Node.js, PostgreSQL, Drizzle.
+- **QA:** 90%+ test coverage using Playwright & Jest.
 
-📁 [Check out all my projects here →](https://github.com/susankanana?tab=repositories)
-
----
-
-## 💼 Experience Highlights
-
-- **Software Engineering - Teach2Give**  
-  Built and deployed full-stack apps using .NET, React, Node, and Azure. Focused on cloud testing, CI/CD, and integration testing using Jest & Cypress.
-
-- **Quality Assurance - Jitu Staffing**  
-  Verified web data against DB content, applied rigorous QA testing and data validation methods.
-
-- **.NET Developer Training - Teach2Give**  
-  Gained expertise in ASP.NET, EF Core, Web APIs, Azure DevOps, software architecture, and NUnit.
+### 📦 [SwiftOrder API](https://github.com/susankanana)
+**Java/Spring Boot E-commerce Backend** *A high-performance order lifecycle management system.*
+- **Tech:** Java, Spring Boot, MySQL, RESTful Design.
+- **Automation:** Integrated REST Assured for automated API regression testing.
 
 ---
 
-## 📚 Education
+## 💼 Professional Experience
 
-**BSc. Mathematics & Computer Science** – Kenyatta University  
-**CPA Foundation Level** – Visions Institute of Professionals  
-**Financial Modelling & Valuation** – ALX  
-
----
-
-## 🏆 Certifications
-
-- ✅ .NET Developer Certificate  
-- ✅ Web Development Certificate  
-- ✅ Financial Modelling & Valuation  
-- 🎓 Bachelor’s Degree Certificate  
-- 💾 Computer Packages Certificate  
+- **Quality Assurance & Automation Trainee @ Teach2Give**
+  - Bridged the gap between Dev and QA by implementing E2E suites (Cypress/Playwright) and CI/CD pipelines.
+- **Quality Assurance Associate @ Jitu Staffing**
+  - Specialized in database integrity, manual validation, and system reliability audits.
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 Certifications & Education
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=susankanana&theme=gruvbox&column=7&no-frame=true)
+- 🎓 **BSc. Mathematics & Computer Science** – Kenyatta University
+- 📈 **Financial Modelling & Valuation** – ALX
+- ✅ **.NET Developer** & **Web Development** Certificates
+- 💾 **CPA Foundation Level** – Visions Institute
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=susankanana&show_icons=true&theme=radical" alt="Susan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susankanana&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
 ## 🧠 Fun Facts
+- ⚡ I believe "Manual Testing" is just "Automation" that hasn't happened yet.
+- 🎨 UI/UX design enthusiast—I love it when code looks as good as it performs.
+- 🌍 Community service is my "Offline Logic"—active in Rotaract.
 
-- 💬 I love clean code, organized APIs, and testing all the things.
-- 🎨 I'm also a Figma enthusiast and UI/UX design fan.
-- 🌍 Actively involved in community service via Rotaract.
-
----
-
-## 📞 Let's Connect
-
-Feel free to reach out for collaborations, opportunities, or just a good tech conversation!
-
-📧 suzzannekans@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com)  
-💻 [GitHub](https://github.com/susankanana)
-
+### 📞 Let's Build Something Bulletproof!
+[LinkedIn](https://www.linkedin.com) | [Email Me](mailto:suzzannekans@gmail.com)
