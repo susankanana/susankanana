@@ -11,6 +11,9 @@
 ---
 
 ## 👋 About Me
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&width=435&lines=Software+Development+Engineer+in+Test;Full-Stack+Software+Engineer;Building+Bulletproof+Systems" alt="Typing SVG" />
+</p>
 
 - 🛡️ **Quality Guardian** focused on building bulletproof automation suites and scalable full-stack systems.
 - 🌱 **Advanced Research:** Deep-diving into **Playwright for Mobile** and **Performance Testing**.
@@ -82,3 +85,6 @@
 
 ### 📞 Let's Build Something Bulletproof!
 [LinkedIn](https://www.linkedin.com) | [Email Me](mailto:suzzannekans@gmail.com)
+
+## 🐍 My Contribution Graph as a Game
+![github contribution grid snake animation](https://raw.githubusercontent.com/susankanana/susankanana/output/github-contribution-grid-snake.svg)
