@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&width=435&lines=Software+Development+Engineer+in+Test;Full-Stack+Software+Engineer;Building+Bulletproof+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&width=500&lines=Software+Development+Engineer+in+Test;Full-Stack+Software+Engineer;Building+Bulletproof+Systems" alt="Typing SVG" />
 </p>
 
 - 🛡️ **Quality Guardian** focused on building bulletproof automation suites and scalable full-stack systems.
