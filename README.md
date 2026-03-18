@@ -86,5 +86,7 @@
 ### 📞 Let's Build Something Bulletproof!
 [LinkedIn](https://www.linkedin.com) | [Email Me](mailto:suzzannekans@gmail.com)
 
+---
+
 ## 🐍 My Contribution Graph as a Game
 ![github contribution grid snake animation](https://raw.githubusercontent.com/susankanana/susankanana/output/github-contribution-grid-snake.svg)
